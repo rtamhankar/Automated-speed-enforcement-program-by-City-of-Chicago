@@ -5,11 +5,10 @@ date: "April 28, 2019"
 output: html_document
 ---
 
-## Automated Speed Enforcement Program to control the Speed Violations in Chicago
 
+##Insight 1
+**Speed Enforcement Program effective?**
 
-**Insight 1**
-*Speed Enforcement Program effective?*
 First Visualization "Impact of Automated Speed Enforcement Program Violations decreasing over the years?" shows how the number of violations are reducing over the years till today. The trend in the number of violations is decreasing from the years 2015 -2019. It can be concluded that the decrease in the violations is a result of Automatic Speed Enforcement program. Hence, the Automatic Speed Enforcement program should be continued in future as the reduction in the number of violations would further help to eradicate the corresponding vehicle crashes/accidents. The line graph clearly represents the message of declining violations by plotting years on X-axis and total number of violations within a year on Y-axis.
 
 While showing the decrease in the total violations over the year, I thought, if I show the percentage decrease for each quarter within a year, it would effectively portray the efficiency of the program. Hence, I was curious to know the trend of violations throughout the different quarters over the years. I chose the line graph for this visualization as well, as I could clearly portray the core message by plotting years and quarters on X-axis and violations on Y-axis.  
@@ -34,6 +33,7 @@ The cameras with less than 1500 total violations captured so far have been highl
 
 **Insight 3**
 *Exceptionally maximum violations within a single zip code?*
+
 In the first visualization, Zip code wise total violations have been shown with the help of a bar chart. It is observed that the number of violations are exceptionally maximum for one zip code. After plotting this graph, I realized that further analysis needs to be done to find out the community areas associated with this zip code. Hence, the second visualization is based on the number of violations pertaining to those wards within a single zip code. As there are only 4 community areas, they can be shown with the help of 'Packed bubbles chart' along with the additional details like community area code, community area names and number of violations.
 By highlighting those community areas, we can suggest that the appropriate measures should be taken to reduce the number of violations in those areas. Increasing the fine for speeding ticket can be one of the solutions. If fine is increased in those areas, people may become more careful to drive within the speed limit. This would definitely reduce the number of crashes/accidents in those areas.
 
