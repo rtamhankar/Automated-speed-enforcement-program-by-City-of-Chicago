@@ -6,8 +6,8 @@ output: html_document
 ---
 
 
-##Insight 1
-###Speed Enforcement Program effective?
+## Insight 1
+### Speed Enforcement Program effective?
 
 First Visualization "Impact of Automated Speed Enforcement Program Violations decreasing over the years?" shows how the number of violations are reducing over the years till today. The trend in the number of violations is decreasing from the years 2015 -2019. It can be concluded that the decrease in the violations is a result of Automatic Speed Enforcement program. Hence, the Automatic Speed Enforcement program should be continued in future as the reduction in the number of violations would further help to eradicate the corresponding vehicle crashes/accidents. The line graph clearly represents the message of declining violations by plotting years on X-axis and total number of violations within a year on Y-axis.
 
@@ -19,8 +19,8 @@ When the second visualization for "Quarter wise trend in the violations" was plo
 The Speed Camera violation program seems very effective as there is a decrease in number of violations over the years from 2015 to 2019.
 
 
-##Insight 2
-###Can the redundant cameras be removed?
+## Insight 2
+### Can the redundant cameras be removed?
 
 First visualization "Top 10 Camera Ids with maximum violations" represents the camera wise number of violations in the descending order of violations captured by each camera. It represents the contribution of each camera in the total violations. I used bar chart which could clearly show the comparison between the violations captured by each camera.
 From this graph, I found out the cameras where least number of violations are captured. There are two scenarios.
@@ -33,8 +33,8 @@ To convey this message, I plotted the cameras with less than total 1500 violatio
 
 The cameras with less than 1500 total violations captured so far have been highlighted so that appropriate measures can be taken.
 
-##Insight 3
-###Exceptionally maximum violations within a single zip code?
+## Insight 3
+### Exceptionally maximum violations within a single zip code?
 
 In the first visualization, Zip code wise total violations have been shown with the help of a bar chart. It is observed that the number of violations are exceptionally maximum for one zip code. After plotting this graph, I realized that further analysis needs to be done to find out the community areas associated with this zip code. Hence, the second visualization is based on the number of violations pertaining to those wards within a single zip code. As there are only 4 community areas, they can be shown with the help of 'Packed bubbles chart' along with the additional details like community area code, community area names and number of violations.
 By highlighting those community areas, we can suggest that the appropriate measures should be taken to reduce the number of violations in those areas. Increasing the fine for speeding ticket can be one of the solutions. If fine is increased in those areas, people may become more careful to drive within the speed limit. This would definitely reduce the number of crashes/accidents in those areas.
@@ -43,10 +43,10 @@ By highlighting those community areas, we can suggest that the appropriate measu
 
 The community areas associated with the zip code with maximum number of violations have been highlighted so that steps can be taken to reduce the speed violations in the area.
 
-##Roadmap for future enhancements
+## Roadmap for future enhancements
 More analysis on the effectiveness of 'Automated Speed Enforcement program' can be done if the existing dataset is merged with a new dataset with additional relevant columns. Also, the analysis of number of violations can be extended further for the wards and all the community areas.
 
-##References
+## References
 1.[Dataset](https://data.cityofchicago.org/Transportation/Speed-Camera-Violations/gncf-3xbx)
 2.[Community area names](https://www.chicagotribune.com/chi-community-areas-htmlstory.html)
 3.[Tableau Public Link](https://public.tableau.com/profile/rujuta.tamhankar#!/vizhome/Automated_Speed_Enforcement_Program_By_City_Of_Chicago/Decreaseintheviolationsovertheyears)
