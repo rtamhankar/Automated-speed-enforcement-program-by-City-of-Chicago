@@ -1,11 +1,3 @@
----
-title: "Automated Speed Enforcement Program by City of Chicago"
-author: "rtamhankar"
-date: "April 28, 2019"
-output: html_document
----
-
-
 ## Insight 1
 ### Speed Enforcement Program effective?
 
