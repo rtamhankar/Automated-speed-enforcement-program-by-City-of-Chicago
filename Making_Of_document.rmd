@@ -19,7 +19,7 @@ When the second visualization for "Quarter wise trend in the violations" was plo
 The Speed Camera violation program seems very effective as there is a decrease in number of violations over the years from 2015 to 2019.
 
 
-##Insight2
+##Insight 2
 ###Can the redundant cameras be removed?
 
 First visualization "Top 10 Camera Ids with maximum violations" represents the camera wise number of violations in the descending order of violations captured by each camera. It represents the contribution of each camera in the total violations. I used bar chart which could clearly show the comparison between the violations captured by each camera.
