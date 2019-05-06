@@ -18,11 +18,11 @@ Revisions done:
 
 #### Visualizations
 
-1.[Insight1_Viz1](https://github.com/rtamhankar/Automated-speed-enforcement-program-by-City-of-Chicago/blob/master/Visualizations%20Images/Insight1-Viz1.JPG)
+1.[Insight1_Viz1](https://github.com/rtamhankar/Automated-speed-enforcement-program-by-City-of-Chicago/blob/master/Revised%20Visualization%20images/Rev_Insight1_Viz1.JPG)
 
-2.[Insight1_Viz2](https://github.com/rtamhankar/Automated-speed-enforcement-program-by-City-of-Chicago/blob/master/Visualizations%20Images/Insight1-Viz2.JPG)
+2.[Insight1_Viz2](https://github.com/rtamhankar/Automated-speed-enforcement-program-by-City-of-Chicago/blob/master/Revised%20Visualization%20images/Rev_Insight1_Viz2.JPG)
 
- 3.[Insight1_Story](https://github.com/rtamhankar/Automated-speed-enforcement-program-by-City-of-Chicago/blob/master/Visualizations%20Images/Insight1-Story.JPG)
+ 3.[Insight1_Story](https://github.com/rtamhankar/Automated-speed-enforcement-program-by-City-of-Chicago/blob/master/Revised%20Visualization%20images/Rev_Insight1_Story.JPG)
 
 #### Conclusion
 
@@ -47,11 +47,11 @@ Revisions done:
 
 #### Visualizations
 
-1.[Insight2_Viz1](https://github.com/rtamhankar/Automated-speed-enforcement-program-by-City-of-Chicago/blob/master/Visualizations%20Images/Insight2-Viz1.JPG)
+1.[Insight2_Viz1](https://github.com/rtamhankar/Automated-speed-enforcement-program-by-City-of-Chicago/blob/master/Revised%20Visualization%20images/Rev_Insight2_Viz1.JPG)
 
-2.[Insight2_Viz2](https://github.com/rtamhankar/Automated-speed-enforcement-program-by-City-of-Chicago/blob/master/Visualizations%20Images/Insight2-Viz2.JPG)
+2.[Insight2_Viz2](https://github.com/rtamhankar/Automated-speed-enforcement-program-by-City-of-Chicago/blob/master/Revised%20Visualization%20images/Rev_Insight2_Viz2.JPG)
 
-3.[Insight2_Story](https://github.com/rtamhankar/Automated-speed-enforcement-program-by-City-of-Chicago/blob/master/Visualizations%20Images/Insight2-Story.JPG)
+3.[Insight2_Story](https://github.com/rtamhankar/Automated-speed-enforcement-program-by-City-of-Chicago/blob/master/Revised%20Visualization%20images/Rev_Insight2_Story.JPG)
 
 #### Conclusion
 
@@ -76,11 +76,11 @@ The shades of the single color varies depending upon the sum of violations withi
 
 #### Visualizations
 
-1.[Insight3_Viz1](https://github.com/rtamhankar/Automated-speed-enforcement-program-by-City-of-Chicago/blob/master/Visualizations%20Images/Insight3-Viz1.JPG)
+1.[Insight3_Viz1](https://github.com/rtamhankar/Automated-speed-enforcement-program-by-City-of-Chicago/blob/master/Revised%20Visualization%20images/Rev_Insight3_Viz1.JPG)
 
-2.[Insight3_Viz2](https://github.com/rtamhankar/Automated-speed-enforcement-program-by-City-of-Chicago/blob/master/Visualizations%20Images/Insight3-Viz2.JPG)
+2.[Insight3_Viz2](https://github.com/rtamhankar/Automated-speed-enforcement-program-by-City-of-Chicago/blob/master/Revised%20Visualization%20images/Rev_Insight3_Viz2.JPG)
 
-3.[Insight3_Story](https://github.com/rtamhankar/Automated-speed-enforcement-program-by-City-of-Chicago/blob/master/Visualizations%20Images/Insight3-Story.JPG)
+3.[Insight3_Story](https://github.com/rtamhankar/Automated-speed-enforcement-program-by-City-of-Chicago/blob/master/Revised%20Visualization%20images/Rev_Insight3_Story.JPG)
 
 #### Conclusion
 
