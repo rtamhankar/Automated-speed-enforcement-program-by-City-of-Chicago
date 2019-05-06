@@ -71,7 +71,7 @@ By highlighting those community areas, we can suggest that the appropriate measu
 Revisions done:
 1. Single color has been used instead of using a separate color for each community area.
 The shades of the single color varies depending upon the sum of violations within the community area.
-2. Zip code has been added in the tooltip.
+2. Boolean variable appearing in the bubble chart has been removed.
 
 
 #### Visualizations
